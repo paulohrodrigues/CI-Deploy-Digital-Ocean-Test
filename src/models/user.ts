@@ -10,7 +10,7 @@ export class User extends BaseEntity {
   @Column({ length: 100, nullable: false })
   public name: string;
 
-  @Index()
+  // @Index()
   @Column({ length: 50, nullable: false, unique: true })
   public email: string;
 
