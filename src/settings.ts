@@ -2,7 +2,7 @@ import { Settings } from "src/interfaces/settings";
 import { Env } from "./core/env";
 
 export const settings: Settings = {
-  port: 3000,
+  port: 4000,
   baseRoute: "/",
   staticFolder: "/static",
   serveDoc: true,
