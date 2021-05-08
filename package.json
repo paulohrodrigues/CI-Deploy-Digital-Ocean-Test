@@ -45,7 +45,7 @@
     "tsconfig-paths": "3.9.0",
     "tslint": "5.20.1",
     "tslint-eslint-rules": "5.4.0",
-    "typeorm": "0.2.22",
+    "typeorm": "0.2.25",
     "typescript": "3.7.4",
     "validate.js": "0.13.1"
   },
